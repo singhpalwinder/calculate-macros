@@ -1,2 +1,2 @@
 # calculate-macros
-learning structs 
+This program was written when i first started learning c++ and learning how to implement structs in my program
