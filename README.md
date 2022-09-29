@@ -1,0 +1,2 @@
+# calculate-macros
+learning structs 
